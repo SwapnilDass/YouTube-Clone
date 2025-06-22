@@ -3,6 +3,6 @@ This project is a front-end clone of the YouTube homepage, built using HTML and 
 
 Feel free to explore the code and see how I structured the components to match the real platform!
 
-#ScreenShots!
+# ScreenShots!
 ![image](https://github.com/user-attachments/assets/e9bb0935-0b54-4df3-a7b6-dc239a045316)
 
